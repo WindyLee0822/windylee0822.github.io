@@ -23,13 +23,11 @@ None
 
 ## Publications
 
-- TREA: Tree-Structure Reasoning Schema for Conversational Recommendation <a href="https://arxiv.org/pdf/2307.10543.pdf">[pdf]</a> <a href="https://github.com/WindyLee0822/TREA">[code]</a> <br>
-  <b>Wendi Li</b>, Wei Wei, Xiaoye Qu, Xian-Ling Mao, Ye Yuan, Wenfeng Xie, Dangyang Chen
-  In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). <b>(ACL2023)</b>
+- TREA: Tree-Structure Reasoning Schema for Conversational Recommendation <a href="https://arxiv.org/pdf/2307.10543.pdf">[pdf]</a> <a href="https://github.com/WindyLee0822/TREA">[code]</a>  <b>(ACL2023)</b> <br>
+  <font size=3><b>Wendi Li</b>, Wei Wei, Xiaoye Qu, Xian-Ling Mao, Ye Yuan, Wenfeng Xie, Dangyang Chen </font><br>
 
-- Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning <a href="https://arxiv.org/pdf/2305.02575.pdf">[pdf]</a> <a href="https://github.com/Snnzhao/DAHCR">[code]</a> <br> 
-  Sen Zhao, Wei Wei, Yifan Liu, Ziyang Wang, <b>Wendi Li</b>, Xian-Ling Mao, Shuai Zhu, Minghui Yang, Zujie Wen
-  In the 32nd International Joint Conference on Artificial Intelligence <b>(IJCAI2023)</b>
 
+- Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning <a href="https://arxiv.org/pdf/2305.02575.pdf">[pdf]</a> <a href="https://github.com/Snnzhao/DAHCR">[code]</a> <b>(IJCAI2023)</b> <br> 
+    <font size=3> Sen Zhao, Wei Wei, Yifan Liu, Ziyang Wang, <b>Wendi Li</b>, Xian-Ling Mao, Shuai Zhu, Minghui Yang, Zujie Wen </font><br>
 
 
