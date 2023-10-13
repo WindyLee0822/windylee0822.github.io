@@ -10,7 +10,7 @@ redirect_from:
 
 
 # About me
-I am currently a second-year M.S. student at  <a href="https://cciip.cs.hust.edu.cn/">CCIIP Lab</a> at <a href="https://hust.edu.cn/" target="_blank" rel="noopener">HUST</a> with Prof. Wei Wei. I received the B.S. in Computer Science and Technology from HUST.
+I am currently a second-year M.S. student at  <a href="https://cciip.cs.hust.edu.cn/">CCIIP Lab</a> at <a href="https://hust.edu.cn/" target="_blank" rel="noopener">HUST</a> with Prof. Wei Wei. I received the B.S. in Computer Science and Technology from HUST. <br>
 My current research interests lie in the text generation, mostly focus on controllable text generation.
 
 <!-- ## News -->
