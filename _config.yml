@@ -172,6 +172,22 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+    
 # Defaults
 defaults:
   # _posts
@@ -203,7 +219,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "/publications/"
       type: publications
     values:
       layout: single
@@ -227,24 +243,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
-# Collections
-collections:
-  about:
-    output: true
-    permalink: /:collection/
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Sass/SCSS
