@@ -1,11 +1,10 @@
 ---
-permalink: /publications
+permalink: /publications/
 title: ""
 excerpt: "Publications"
 author_profile: true
 redirect_from: 
   - /publications/
-  - /about.html
 ---
 
 ## Preprints
