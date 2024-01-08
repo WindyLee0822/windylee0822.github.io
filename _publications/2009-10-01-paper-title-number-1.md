@@ -1,15 +1,22 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /
+title: ""
+excerpt: "Publications"
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /about.html
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+## Preprints
+None
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+## Publications
+
+- TREA: Tree-Structure Reasoning Schema for Conversational Recommendation <a href="https://arxiv.org/pdf/2307.10543.pdf">[pdf]</a> <a href="https://github.com/WindyLee0822/TREA">[code]</a>  <b>(ACL2023)</b> <br>
+  <font size=3><b>Wendi Li</b>, Wei Wei, Xiaoye Qu, Xian-Ling Mao, Ye Yuan, Wenfeng Xie, Dangyang Chen </font><br>
+
+
+- Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning <a href="https://arxiv.org/pdf/2305.02575.pdf">[pdf]</a> <a href="https://github.com/Snnzhao/DAHCR">[code]</a> <b>(IJCAI2023)</b> <br> 
+    <font size=3> Sen Zhao, Wei Wei, Yifan Liu, Ziyang Wang, <b>Wendi Li</b>, Xian-Ling Mao, Shuai Zhu, Minghui Yang, Zujie Wen </font><br>
