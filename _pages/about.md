@@ -11,13 +11,13 @@ redirect_from:
 
 # About me
 I am currently a second-year M.S. student at  <a href="https://cciip.cs.hust.edu.cn/">CCIIP Lab</a> at <a href="https://hust.edu.cn/" target="_blank" rel="noopener">HUST</a> with Prof. Wei Wei. I received the B.S. in Computer Science and Technology from HUST. <br>
-My current research interests lie in the text generation, mostly focus on controllable text generation and LLM alignment.
+My current research interests lie in RL algorithm for LLM/MLLM, especially on alignment and reasoning.
 
 <!-- ## News -->
 ## 🔥 News
 - 2023/10 I receive National Scholarship (Top 1% in HUST) 
 - 2023/05 1 paper got accepted by ACL2023 main conference
-- 2023/04 1 paper got accepted by IJCAI2023
+- 2024/02 1 paper got accepted by Findings of NAACL2024
 
 ## 📝 Selected Publications 
 
