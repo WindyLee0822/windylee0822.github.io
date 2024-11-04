@@ -27,6 +27,6 @@ redirect_from:
     <font size=3> <b>Wendi Li</b>, Wei Wei, Kaihe Xu, Wenfeng Xie, Dangyang Chen, Yu Cheng </font><br>
 
 - Position Debiasing Fine-Tuning for Causal Perception in Long-Term Dialogue <a href="https://arxiv.org/pdf/2406.02002">[pdf]</a> <a href="https://github.com/WindyLee0822/CTG">[code]</a> <b>(IJCAI2024)</b> <br> 
-    <font size=3> Shixuan Fan, Wei Wei, <b>Wendi Li</b>,  Xian-Ling Mao, Wenfeng Xie, Dangyang Chen</font><br>
+    <font size=3> Shixuan Fan, Wei Wei, <b>Wendi Li</b>,  Xian-Ling Mao, Wenfeng Xie, Dangyang Chen </font><br>
 
   
