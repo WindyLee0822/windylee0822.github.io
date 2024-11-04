@@ -10,7 +10,7 @@ redirect_from:
 
 ## Preprints
 
-- Process Reward Model with Q-value Rankings <a href="https://arxiv.org/pdf/2410.11287">[pdf]</a> <a href="https://github.com/WindyLee0822/Process_Q_Model">[code]</a>  <b>(ACL2023)</b> <br>
+- Process Reward Model with Q-value Rankings <a href="https://arxiv.org/pdf/2410.11287">[pdf]</a> <a href="https://github.com/WindyLee0822/Process_Q_Model">[code]</a>   <br>
   <font size=3><b>Wendi Li</b>, Yixuan Li </font><br>
 
 
