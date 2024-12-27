@@ -8,10 +8,15 @@ redirect_from:
   - /publications.html
 ---
 
+(* denotes equal contribution)
+
 ## Preprints
 
 - Process Reward Model with Q-value Rankings <a href="https://arxiv.org/pdf/2410.11287">[pdf]</a> <a href="https://github.com/WindyLee0822/Process_Q_Model">[code]</a>   <br>
   <font size=3><b>Wendi Li</b>, Yixuan Li </font><br>
+
+- Process Reward Model with Q-value Rankings <a href="https://arxiv.org/pdf/2412.01981">[pdf]</a> <a href="https://github.com/lifan-yuan/ImplicitPRM">[code]</a>   <br>
+  <font size=3> Lifan Yuan*, <b>Wendi Li*</b>, Huayu Chen, Ganqu Cui, Ning Ding, Kaiyan Zhang, Bowen Zhou, Zhiyuan Liu, Hao Peng </font><br>
 
 
 ## Publications
