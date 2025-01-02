@@ -23,14 +23,22 @@ My current research interests lie in RL algorithm for LLM/MLLM, especially on al
 
 <font size=2> (See full list in the publication section or <a href="https://scholar.google.com/citations?user=hK19TbcAAAAJ&hl=zh-CN">[google scholar]</a>)</font>
 
-- TREA: Tree-Structure Reasoning Schema for Conversational Recommendation <a href="https://arxiv.org/pdf/2307.10543.pdf">[pdf]</a> <a href="https://github.com/WindyLee0822/TREA">[code]</a>  <b>(ACL2023)</b> <br>
-  <font size=3><b>Wendi Li</b>, Wei Wei, Xiaoye Qu, Xian-Ling Mao, Ye Yuan, Wenfeng Xie, Dangyang Chen </font><br>
+- Free Process Rewards without Process Labels <a href="https://arxiv.org/pdf/2412.01981">[pdf]</a> <a href="https://github.com/lifan-yuan/ImplicitPRM">[code]</a>   <br>
+  <font size=3> Lifan Yuan*, <b>Wendi Li*</b>, Huayu Chen, Ganqu Cui, Ning Ding, Kaiyan Zhang, Bowen Zhou, Zhiyuan Liu, Hao Peng </font><br>
+
+- Process Reward Model with Q-value Rankings <a href="https://arxiv.org/pdf/2410.11287">[pdf]</a> <a href="https://github.com/WindyLee0822/Process_Q_Model">[code]</a>  <b></b> <br>
+  <font size=3><b>Wendi Li</b>, Yixuan Li </font><br>
 
 - Reinforcement Learning with Token-level Feedback for Controllable Text Generation <a href="https://arxiv.org/pdf/2403.11558">[pdf]</a> <a href="https://github.com/WindyLee0822/CTG">[code]</a> <b>(Findings of NAACL2024)</b> <br> 
     <font size=3> <b>Wendi Li</b>, Wei Wei, Kaihe Xu, Wenfeng Xie, Dangyang Chen, Yu Cheng </font><br>
 
-- Process Reward Model with Q-value Rankings <a href="https://arxiv.org/pdf/2410.11287">[pdf]</a> <a href="https://github.com/WindyLee0822/Process_Q_Model">[code]</a>  <b></b> <br>
-  <font size=3><b>Wendi Li</b>, Yixuan Li </font><br>
+  
+- TREA: Tree-Structure Reasoning Schema for Conversational Recommendation <a href="https://arxiv.org/pdf/2307.10543.pdf">[pdf]</a> <a href="https://github.com/WindyLee0822/TREA">[code]</a>  <b>(ACL2023)</b> <br>
+  <font size=3><b>Wendi Li</b>, Wei Wei, Xiaoye Qu, Xian-Ling Mao, Ye Yuan, Wenfeng Xie, Dangyang Chen </font><br>
+
+
+
+
 
 
 
