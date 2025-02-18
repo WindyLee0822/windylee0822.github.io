@@ -40,7 +40,11 @@ My current research interests lie in RL algorithm for LLM/MLLM, especially on al
   <font size=3><b>Wendi Li</b>, Wei Wei, Xiaoye Qu, Xian-Ling Mao, Ye Yuan, Wenfeng Xie, Dangyang Chen </font><br>
 
 
+## Misc
 
+I'm enjoying listening to all kinds of music. I'm a big fan of Billie Elish and Lana Del Ray.
+
+I also love Literature. Some of my favorite novelists: Jose Saramago, Albert Camus, Murakami Haruki, Yoko Tawada, Xuetao Shuang.
 
 
 
