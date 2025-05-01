@@ -15,10 +15,11 @@ redirect_from:
 - Process Reinforcement through Implicit Rewards <a href="https://arxiv.org/pdf/2502.01456">[pdf]</a> <a href="https://github.com/PRIME-RL/PRIME">[code]</a>   <br>
   <font size=3> Ganqu Cui*, Lifan Yuan*, Zefan Wang*, Hanbin Wang*, <b>Wendi Li* </b>, Bingxiang He*, Yuchen Fan*, Tianyu Yu*, Qixin Xu*, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding </font><br>
 
-- Free Process Rewards without Process Labels <a href="https://arxiv.org/pdf/2412.01981">[pdf]</a> <a href="https://github.com/lifan-yuan/ImplicitPRM">[code]</a>   <br>
-  <font size=3> Lifan Yuan*, <b>Wendi Li*</b>, Huayu Chen, Ganqu Cui, Ning Ding, Kaiyan Zhang, Bowen Zhou, Zhiyuan Liu, Hao Peng </font><br>
 
 ## Publications
+
+- Free Process Rewards without Process Labels <a href="https://arxiv.org/pdf/2412.01981">[pdf]</a> <a href="https://github.com/lifan-yuan/ImplicitPRM">[code]</a>  <b>(ICML2025)</b>   <br>
+  <font size=3> Lifan Yuan*, <b>Wendi Li*</b>, Huayu Chen, Ganqu Cui, Ning Ding, Kaiyan Zhang, Bowen Zhou, Zhiyuan Liu, Hao Peng </font><br>
 
 - Process Reward Model with Q-value Rankings <a href="https://arxiv.org/pdf/2410.11287">[pdf]</a> <a href="https://github.com/WindyLee0822/Process_Q_Model">[code]</a> <b>(ICLR2025)</b> <br>  <font size=3><b>Wendi Li</b>, Yixuan Li </font><br>
 
