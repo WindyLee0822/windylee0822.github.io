@@ -1,8 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+permalink: /portfolio/
+title: ""
+excerpt: "portfolio"
+author_profile: true
+redirect_from: 
+  - /portfolio/
+  - /portfolio.html
 ---
+
 
 ## Misc
 I love literature, movies and music.
