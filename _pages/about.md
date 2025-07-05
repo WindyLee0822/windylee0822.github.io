@@ -41,13 +41,6 @@ My current research interests lie in RL algorithm for LLM/MLLM, especially on al
   <font size=3><b>Wendi Li</b>, Wei Wei, Xiaoye Qu, Xian-Ling Mao, Ye Yuan, Wenfeng Xie, Dangyang Chen </font><br>
 
 
-## Misc
-
-I love literature, music, and movies.
-Favorite books recently read: Satantango by Laszlo Krasznahorkai, Life and Death Are Wearing Me Out by Mo Yan, the Promise by Damon Galgut
-I stan Billie Elish, Lana Del Ray, Jude Chiu, Qingfeng Wu.
-Favorite movies recently watched: Desert of Namibia by Yoko Yamanaka, Happy as Lazzaro and La Chimera by Alice Rohrwacher
-
 
 
 
