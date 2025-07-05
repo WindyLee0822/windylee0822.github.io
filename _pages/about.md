@@ -43,9 +43,10 @@ My current research interests lie in RL algorithm for LLM/MLLM, especially on al
 
 ## Misc
 
-I'm enjoying listening to all kinds of music. I'm a big fan of Billie Elish and Lana Del Ray.
-
-I also love Literature. Some of my favorite novelists: Jose Saramago, Albert Camus, Murakami Haruki, Yoko Tawada, Xuetao Shuang.
+I love literature, music, and movies.
+Favorite books recently read: Satantango by Laszlo Krasznahorkai, Life and Death Are Wearing Me Out by Mo Yan, the Promise by Damon Galgut
+I stan Billie Elish, Lana Del Ray, Jude Chiu, Qingfeng Wu.
+Favorite movies recently watched: Desert of Namibia by Yoko Yamanaka, Happy as Lazzaro and La Chimera by Alice Rohrwacher
 
 
 
