@@ -10,16 +10,16 @@ redirect_from:
 
 
 # About me
-I am currently a second-year M.S. student at  <a href="https://cciip.cs.hust.edu.cn/">CCIIP Lab</a> at <a href="https://hust.edu.cn/" target="_blank" rel="noopener">HUST</a> with Prof. Wei Wei. I received the B.S. in Computer Science and Technology from HUST. <br>
-My current research interests lie in RL algorithm for LLM/MLLM, especially on alignment and reasoning.
+I am currently a first-year PhD student at UW-Madison, where I am fortunately advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/">Sharon Li</a>. I received the B.E. and M.E. in Computer Science and Technology from HUST. <br>
+My current research interests lie in RL algorithms for LLM/MLLM, especially on alignment and reasoning.
 
 <!-- ## News -->
 ## 🔥 News
 - 2025/05 1 paper got accepted by ICML2025
 - 2025/01 1 paper got accepted by ICLR2025
 - 2024/02 1 paper got accepted by Findings of NAACL2024
-- 2023/10 I receive National Scholarship (Top 1% in HUST) 
-- 2023/05 1 paper got accepted by ACL2023 main conference
+- 2023/10 I received National Scholarship (Top 3% nationwide) 
+- 2023/05 1 paper got accepted by ACL 2023 main conference
 
 
 ## 📝 Selected Publications 
