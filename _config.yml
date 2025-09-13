@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wendi Li"
   avatar           : "myavatar.jpg"
-  bio              : "M.S. student of HUST"
-  location         : "Wuhan CN"
+  bio              : "PhD student at UW-Madison"
+  location         : "Madison, WI"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=hK19TbcAAAAJ&hl=zh-CN"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/wendi-li-323997285/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
