@@ -27,7 +27,7 @@ My current research interests lie in RL algorithms for LLM/MLLM, especially on a
 <font size=2> (See full list in the publication section or <a href="https://scholar.google.com/citations?user=hK19TbcAAAAJ&hl=zh-CN">[google scholar]</a>)</font>
 
 - General Exploratory Bonus for Optimistic Exploration in RLHF <a href="https://arxiv.org/pdf/2510.03269">[pdf]</a> <a href="https://github.com/WindyLee0822/GEB">[code]</a>   <br>
-<font size=3> <b>Wendi Li </b>, Changdae Oh, Yixuan Li</font><br>
+  <font size=3> <b>Wendi Li </b>, Changdae Oh, Yixuan Li</font><br>
 
 - Process Reinforcement through Implicit Rewards <a href="https://arxiv.org/pdf/2502.01456">[pdf]</a> <a href="https://github.com/PRIME-RL/PRIME">[code]</a>   <br>
   <font size=3> Ganqu Cui*, Lifan Yuan*, Zefan Wang*, Hanbin Wang*, <b>Wendi Li* </b>, Bingxiang He*, Yuchen Fan*, Tianyu Yu*, Qixin Xu*, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding </font><br>
