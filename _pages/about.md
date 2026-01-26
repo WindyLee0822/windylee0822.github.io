@@ -15,8 +15,10 @@ My current research interests lie in RL algorithms for LLM/MLLM, especially on a
 
 <!-- ## News -->
 ## 🔥 News
-- 2025/05 1 paper got accepted by ICML2025
-- 2025/01 1 paper got accepted by ICLR2025
+- 2026/01 GEB (General Exploratory Bonus for RLHF) is accepted by ICLR2026
+- 2025/11 GEB (General Exploratory Bonus for RLHF) is selected as oral presentation in ResponsibleFM@NeurIPS2026.
+- 2025/05 Free Process Rewards without Process Labels is accepted by ICML2025
+- 2025/01 PQM (Process Reward Model with Q-value Rankings) is accepted by ICLR2025
 - 2024/02 1 paper got accepted by Findings of NAACL2024
 - 2023/10 I received National Scholarship (Top 3% nationwide) 
 - 2023/05 1 paper got accepted by ACL 2023 main conference
@@ -26,7 +28,7 @@ My current research interests lie in RL algorithms for LLM/MLLM, especially on a
 
 <font size=2> (See full list in the publication section or <a href="https://scholar.google.com/citations?user=hK19TbcAAAAJ&hl=zh-CN">[google scholar]</a>)</font>
 
-- General Exploratory Bonus for Optimistic Exploration in RLHF <a href="https://arxiv.org/pdf/2510.03269">[pdf]</a> <a href="https://github.com/WindyLee0822/GEB">[code]</a>   <br>
+- General Exploratory Bonus for Optimistic Exploration in RLHF <a href="https://arxiv.org/pdf/2510.03269">[pdf]</a> <a href="https://github.com/WindyLee0822/GEB">[code]</a>  <b>(ICLR2026, ResponsibleFM@NeurIPS2026 Oral)</b>    <br>
   <font size=3> <b>Wendi Li </b>, Changdae Oh, Yixuan Li</font><br>
 
 - Process Reinforcement through Implicit Rewards <a href="https://arxiv.org/pdf/2502.01456">[pdf]</a> <a href="https://github.com/PRIME-RL/PRIME">[code]</a>   <br>
