@@ -21,7 +21,7 @@ redirect_from:
 
 ## Publications
 
-- General Exploratory Bonus for Optimistic Exploration in RLHF <a href="https://arxiv.org/pdf/2510.03269">[pdf]</a> <a href="https://github.com/WindyLee0822/GEB">[code]</a>(ICLR 2026; ResponsibleFM@NIPS2026 Oral)<br>
+- General Exploratory Bonus for Optimistic Exploration in RLHF <a href="https://arxiv.org/pdf/2510.03269">[pdf]</a> <a href="https://github.com/WindyLee0822/GEB">[code]</a> <b>(ICLR 2026; ResponsibleFM@NIPS2026 Oral)</b> <br>
     <font size=3>  <b>Wendi Li</b>, Changdae Oh, Yixuan Li</font><br>
     
 - Free Process Rewards without Process Labels <a href="https://arxiv.org/pdf/2412.01981">[pdf]</a> <a href="https://github.com/lifan-yuan/ImplicitPRM">[code]</a>  <b>(ICML2025)</b>   <br>
