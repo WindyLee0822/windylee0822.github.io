@@ -10,8 +10,8 @@ redirect_from:
 
 
 # About me
-I am currently a first-year PhD student at UW-Madison, where I am fortunately advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/">Sharon Li</a>. I received the B.E. and M.E. in Computer Science and Technology from HUST. <br>
-My current research interests lie in RL algorithms for LLM/MLLM, especially on alignment and reasoning.
+I am currently a first-year PhD student at UW-Madison, where I am fortunately advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/">Sharon Li</a>. I received the B.E. and M.E. in Computer Science and Technology from HUST (Huazhong University of Science and Technology). <br>
+My current research interests lie in RL algorithms for large-scale models and their downstream applications, such as agentic systems. 
 
 <!-- ## News -->
 ## 🔥 News
