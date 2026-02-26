@@ -28,6 +28,9 @@ My current research interests lie in RL algorithms for LLM/MLLM, especially on a
 
 <font size=2> (See full list in the publication section or <a href="https://scholar.google.com/citations?user=hK19TbcAAAAJ&hl=zh-CN">[google scholar]</a>)</font>
 
+- LAD: Learning Advantage Distribution for Reasoning <a href="https://arxiv.org/pdf/2602.20132">[pdf]</a>  <a href="https://github.com/WindyLee0822/LAD">[code]</a> <br>
+<font size=3> <b>Wendi Li</b>, Sharon Li </font><br>
+
 - General Exploratory Bonus for Optimistic Exploration in RLHF <a href="https://arxiv.org/pdf/2510.03269">[pdf]</a> <a href="https://github.com/WindyLee0822/GEB">[code]</a>  <b>(ICLR2026, ResponsibleFM@NeurIPS2026 Oral)</b>    <br>
   <font size=3> <b>Wendi Li </b>, Changdae Oh, Yixuan Li</font><br>
 
