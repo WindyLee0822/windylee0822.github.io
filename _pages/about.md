@@ -17,6 +17,7 @@ My current research interests lie in RL algorithms for LLM/MLLM, especially on a
 ## 🔥 News
 - 2026/01 GEB (General Exploratory Bonus for RLHF) is accepted by ICLR2026
 - 2025/11 GEB (General Exploratory Bonus for RLHF) is selected as oral presentation in ResponsibleFM@NeurIPS2026.
+- 2025/08 I started my PhD journey at UW-Madison
 - 2025/05 Free Process Rewards without Process Labels is accepted by ICML2025
 - 2025/01 PQM (Process Reward Model with Q-value Rankings) is accepted by ICLR2025
 - 2024/02 1 paper got accepted by Findings of NAACL2024
