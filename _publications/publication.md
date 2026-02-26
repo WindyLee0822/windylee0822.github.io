@@ -13,10 +13,10 @@ redirect_from:
 ## Preprints
 
 - LAD: Learning Advantage Distribution for Reasoning <a href="https://arxiv.org/pdf/2602.20132">[pdf]</a>  <a href="https://github.com/WindyLee0822/LAD">[code]</a> <br>
-<font size=3> <b>Wendi Li</b>, Sharon Li </font><br>
+  <font size=3> <b>Wendi Li</b>, Sharon Li </font><br>
 
 - Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents <a href="https://arxiv.org/pdf/2602.05073">[pdf]</a> <br>
-<font size=3> Changdae Oh, Seongheon Park, To Eun Kim, Jiatong Li, <b>Wendi Li </b>, Samuel Yeh, Xuefeng Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li </font><br>
+  <font size=3> Changdae Oh, Seongheon Park, To Eun Kim, Jiatong Li, <b>Wendi Li </b>, Samuel Yeh, Xuefeng Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li </font><br>
 
 
 - Process Reinforcement through Implicit Rewards <a href="https://arxiv.org/pdf/2502.01456">[pdf]</a> <a href="https://github.com/PRIME-RL/PRIME">[code]</a>   <br>
