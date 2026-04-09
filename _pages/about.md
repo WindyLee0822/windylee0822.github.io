@@ -15,22 +15,23 @@ My current research interests lie in RL algorithms for large-scale models and th
 
 <!-- ## News -->
 ## 🔥 News
-- 2026/01 GEB (General Exploratory Bonus for RLHF) is accepted by ICLR2026
+- 2026/04 Two papaers get accepted at ACL 2026.
+- 2026/01 GEB (General Exploratory Bonus for RLHF) is accepted by ICLR2026.
 - 2025/11 GEB (General Exploratory Bonus for RLHF) is selected as oral presentation in ResponsibleFM@NeurIPS2026.
-- 2025/08 I started my PhD journey at UW-Madison
-- 2025/05 Free Process Rewards without Process Labels is accepted by ICML2025
-- 2025/01 PQM (Process Reward Model with Q-value Rankings) is accepted by ICLR2025
-- 2024/02 1 paper got accepted by Findings of NAACL2024
-- 2023/10 I received National Scholarship (Top 3% nationwide) 
-- 2023/05 1 paper got accepted by ACL 2023 main conference
+- 2025/08 I started my PhD journey at UW-Madison.
+- 2025/05 Free Process Rewards without Process Labels is accepted by ICML2025.
+- 2025/01 PQM (Process Reward Model with Q-value Rankings) is accepted by ICLR2025.
+- 2024/02 1 paper got accepted by Findings of NAACL2024.
+- 2023/10 I received National Scholarship (Top 3% nationwide).
+- 2023/05 1 paper got accepted by ACL 2023 main conference.
 
 
 ## 📝 Selected Publications 
 
 <font size=2> (See full list in the publication section or <a href="https://scholar.google.com/citations?user=hK19TbcAAAAJ&hl=zh-CN">[google scholar]</a>)</font>
 
-- LAD: Learning Advantage Distribution for Reasoning <a href="https://arxiv.org/pdf/2602.20132">[pdf]</a>  <a href="https://github.com/WindyLee0822/LAD">[code]</a> <br>
-<font size=3> <b>Wendi Li</b>, Sharon Li </font><br>
+- LAD: Learning Advantage Distribution for Reasoning <a href="https://arxiv.org/pdf/2602.20132">[pdf]</a>  <a href="https://github.com/WindyLee0822/LAD">[code]</a>  <b>(ACL2026)</b> <br>
+  <font size=3> <b>Wendi Li</b>, Sharon Li </font><br>
 
 - General Exploratory Bonus for Optimistic Exploration in RLHF <a href="https://arxiv.org/pdf/2510.03269">[pdf]</a> <a href="https://github.com/WindyLee0822/GEB">[code]</a>  <b>(ICLR2026, ResponsibleFM@NeurIPS2026 Oral)</b>    <br>
   <font size=3> <b>Wendi Li </b>, Changdae Oh, Yixuan Li</font><br>
@@ -43,7 +44,7 @@ My current research interests lie in RL algorithms for large-scale models and th
 
 - Process Reward Model with Q-value Rankings <a href="https://arxiv.org/pdf/2410.11287">[pdf]</a> <a href="https://github.com/WindyLee0822/Process_Q_Model">[code]</a> <b>(ICLR2025)</b> <br>  <font size=3><b>Wendi Li</b>, Yixuan Li </font><br>
 
-- Reinforcement Learning with Token-level Feedback for Controllable Text Generation <a href="https://arxiv.org/pdf/2403.11558">[pdf]</a> <a href="https://github.com/WindyLee0822/CTG">[code]</a> <b>(Findings of NAACL2024)</b> <br> 
+- Reinforcement Learning with Token-level Feedback for Controllable Text Generation <a href="https://arxiv.org/pdf/2403.11558">[pdf]</a> <a href="https://github.com/WindyLee0822/CTG">[code]</a> <b>(NAACL2024)</b> <br> 
     <font size=3> <b>Wendi Li</b>, Wei Wei, Kaihe Xu, Wenfeng Xie, Dangyang Chen, Yu Cheng </font><br>
 
 - TREA: Tree-Structure Reasoning Schema for Conversational Recommendation <a href="https://arxiv.org/pdf/2307.10543.pdf">[pdf]</a> <a href="https://github.com/WindyLee0822/TREA">[code]</a>  <b>(ACL2023)</b> <br>
