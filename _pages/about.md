@@ -36,7 +36,7 @@ My current research interests lie in RL algorithms for large-scale models and th
 - General Exploratory Bonus for Optimistic Exploration in RLHF <a href="https://arxiv.org/pdf/2510.03269">[pdf]</a> <a href="https://github.com/WindyLee0822/GEB">[code]</a>  <b>(ICLR2026, ResponsibleFM@NeurIPS2026 Oral)</b>    <br>
   <font size=3> <b>Wendi Li </b>, Changdae Oh, Yixuan Li</font><br>
 
-- Process Reinforcement through Implicit Rewards <a href="https://arxiv.org/pdf/2502.01456">[pdf]</a> <a href="https://github.com/PRIME-RL/PRIME">[code]</a>   <br>
+- Process Reinforcement through Implicit Rewards <a href="https://arxiv.org/pdf/2502.01456">[pdf]</a> <a href="https://github.com/PRIME-RL/PRIME">[code]</a>  <b>(TMLR2026)</b>  <br>
   <font size=3> Ganqu Cui*, Lifan Yuan*, Zefan Wang*, Hanbin Wang*, <b>Wendi Li* </b>, Bingxiang He*, Yuchen Fan*, Tianyu Yu*, Qixin Xu*, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding </font><br>
 
 - Free Process Rewards without Process Labels <a href="https://arxiv.org/pdf/2412.01981">[pdf]</a> <a href="https://github.com/lifan-yuan/ImplicitPRM">[code]</a> <b>(ICML2025)</b>   <br>
