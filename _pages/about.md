@@ -61,6 +61,8 @@ redirect_from:
       </div>
     </div>
     <ul class="academic-news">
+      <li><time datetime="2026-05">Jul 2026</time><span>Progress Advantage won the <a href="https://sites.google.com/view/rlxf-icml2026/accepted-papers"><strong>best paper award</strong> at workshop RLxF@ICML 2026</a></span></li>
+      <li><time datetime="2026-05">May 2026</time><span>I started my summer internship as a <strong>Research Intern in Microsoft</strong>, Redmond, WA.</span></li>
       <li><time datetime="2026-04">Apr 2026</time><span>Two papers were accepted at <strong>ACL 2026</strong>.</span></li>
       <li><time datetime="2026-01">Jan 2026</time><span>GEB was accepted by <strong>ICLR 2026</strong>.</span></li>
       <li><time datetime="2025-11">Nov 2025</time><span>GEB was selected for an oral presentation at <strong>ResponsibleFM@NeurIPS 2026</strong>.</span></li>
