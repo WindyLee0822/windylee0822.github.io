@@ -9,13 +9,7 @@
     return;
   }
 
-  filterGroup.addEventListener("click", function (event) {
-    var button = event.target.closest("[data-publication-filter]");
-
-    if (!button) {
-      return;
-    }
-
+  function applyFilter(button) {
     var selected = button.getAttribute("data-publication-filter");
     var visibleCount = 0;
 
@@ -36,5 +30,21 @@
     if (count) {
       count.textContent = visibleCount;
     }
+  }
+
+  filterGroup.addEventListener("click", function (event) {
+    var button = event.target.closest("[data-publication-filter]");
+
+    if (!button) {
+      return;
+    }
+
+    applyFilter(button);
   });
+
+  var activeFilter = filterGroup.querySelector('[data-publication-filter][aria-pressed="true"]');
+
+  if (activeFilter) {
+    applyFilter(activeFilter);
+  }
 }());
