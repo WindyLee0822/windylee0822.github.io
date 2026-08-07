@@ -336,7 +336,7 @@
 
 .paper-list > li {
   display: grid;
-  grid-template-columns: 145px 66px minmax(0, 1fr);
+  grid-template-columns: 145px minmax(0, 1fr);
   gap: 1.15rem;
   align-items: start;
   margin: 0;
@@ -375,25 +375,13 @@
   transform: scale(1.035);
 }
 
-.paper-badges {
-  align-self: start;
-}
-
 .paper-venue {
-  padding: 0.55rem 0.3rem;
   color: #246f96;
-  background: #eef6fa;
-  border-left: 3px solid #5c9dbc;
-  font-size: 0.76rem;
-  font-weight: 800;
-  line-height: 1.2;
-  text-align: center;
-}
-
-.paper-venue span {
-  color: #6c7a83;
-  font-size: 0.64rem;
-  font-weight: 600;
+  font-size: 0.7rem !important;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1.4;
+  text-transform: uppercase;
 }
 
 .paper-recognition {
@@ -414,13 +402,6 @@
   background: #d5a23d;
   border-radius: 50%;
   content: "";
-}
-
-.paper-recognition span {
-  color: #9a732b;
-  font-size: 0.59rem;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
 }
 
 .paper-list p {
@@ -482,7 +463,7 @@
   }
 
   .paper-list > li {
-    grid-template-columns: 120px 58px minmax(0, 1fr);
+    grid-template-columns: 120px minmax(0, 1fr);
     gap: 0.8rem;
   }
 
@@ -535,10 +516,6 @@
 
   .paper-preview {
     height: 82px;
-  }
-
-  .paper-badges {
-    display: none;
   }
 
   .paper-details {

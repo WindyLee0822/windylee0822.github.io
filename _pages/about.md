@@ -99,14 +99,12 @@ redirect_from:
         <a class="paper-preview" href="{{ paper.pdf }}" aria-label="Read {{ paper.title }}">
         <img src="{{ paper.image }}" alt="Illustration from {{ paper.title }}" loading="lazy">
         </a>
-        <div class="paper-badges">
-          <div class="paper-venue">{{ paper.venue }}<br><span>{{ paper.year }}</span></div>
-        </div>
         <div class="paper-details">
+          <p class="paper-venue">{{ paper.venue }} · {{ paper.year }}</p>
           <p class="paper-title">{{ paper.title }}</p>
           <p class="paper-authors">{{ paper.authors }}</p>
           {% if paper.note %}<p class="paper-note">{{ paper.note }}</p>{% endif %}
-          {% if paper.recognition %}<p class="paper-recognition"><span>Recognition</span>{{ paper.recognition }}</p>{% endif %}
+          {% if paper.recognition %}<p class="paper-recognition">{{ paper.recognition }}</p>{% endif %}
           <p class="paper-links">
             <a href="{{ paper.pdf }}">Paper</a>
             {% if paper.code %}<a href="{{ paper.code }}">Code</a>{% endif %}
