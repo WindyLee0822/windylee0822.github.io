@@ -1,3 +1,47 @@
+- title: "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents"
+  authors: "Changdae Oh, <strong>Wendi Li</strong>, Seongheon Park, Samuel Yeh, Tanwi Mallick, Sharon Li"
+  venue: "arXiv"
+  year: "2026"
+  note: "Preprint"
+  image: "/images/publications/progress-advantage.jpg"
+  pdf: "https://arxiv.org/pdf/2606.26080"
+  code: "https://github.com/deeplearning-wisc/progress-advantage"
+  categories:
+    - rl
+    - agents
+
+- title: "Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring"
+  authors: "Seongheon Park, <strong>Wendi Li</strong>, Changdae Oh, Samuel Yeh, Zsolt Kira, Michael Hagenow, Sharon Li"
+  venue: "arXiv"
+  year: "2026"
+  note: "Preprint"
+  image: "/images/publications/hide-and-seek.jpg"
+  pdf: "https://arxiv.org/pdf/2605.30834"
+  categories:
+    - agents
+
+- title: "Cyclical Entropy Eruption: Entropy Dynamics in Agent Reinforcement Learning"
+  authors: "<strong>Wendi Li</strong>, Shawn Im, Sharon Li"
+  venue: "arXiv"
+  year: "2026"
+  note: "Preprint"
+  image: "/images/publications/cyclical-entropy.jpg"
+  pdf: "https://arxiv.org/pdf/2605.27954"
+  code: "https://github.com/WindyLee0822/SEAL"
+  categories:
+    - rl
+    - agents
+
+- title: "When Vision Speaks for Sound"
+  authors: "Xiaofei Wen, Wenjie Jacky Mo, Xingyu Fu, Rui Cai, Tinghui Zhu, <strong>Wendi Li</strong>, Yanan Xie, Muhao Chen, Peng Qi"
+  venue: "arXiv"
+  year: "2026"
+  note: "Preprint"
+  image: "/images/publications/vision-speaks-sound.jpg"
+  pdf: "https://arxiv.org/pdf/2605.16403"
+  categories:
+    - nlp
+
 - title: "LAD: Learning Advantage Distribution for Reasoning"
   authors: "<strong>Wendi Li</strong>, Sharon Li"
   venue: "ACL"

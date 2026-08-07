@@ -96,7 +96,7 @@ redirect_from:
       {% for paper in site.data.publications %}
       <li data-publication-categories="{{ paper.categories | join: ' ' }}">
         <a class="paper-preview" href="{{ paper.pdf }}" aria-label="Read {{ paper.title }}">
-          <img src="{{ paper.image }}" alt="First-page preview of {{ paper.title }}" loading="lazy">
+        <img src="{{ paper.image }}" alt="Illustration from {{ paper.title }}" loading="lazy">
         </a>
         <div class="paper-venue">{{ paper.venue }}<br><span>{{ paper.year }}</span></div>
         <div class="paper-details">
