@@ -100,6 +100,10 @@
   border-color: #8eb8d0;
 }
 
+.profile-links .profile-email {
+  grid-column: 1 / -1;
+}
+
 .intro-kicker {
   margin: -0.25rem 0 1.2rem !important;
   color: #1d2b35;
@@ -393,15 +397,30 @@
 }
 
 .paper-recognition {
-  margin-top: 0.38rem;
-  padding: 0.42rem 0.28rem;
-  color: #687983;
-  background: #f7f9fa;
-  border-left: 2px solid #b8c8d0;
-  font-size: 0.59rem;
+  display: flex;
+  align-items: baseline;
+  gap: 0.45rem;
+  margin-top: 0.38rem !important;
+  color: #775c2a;
+  font-size: 0.69rem !important;
   font-weight: 700;
-  line-height: 1.3;
-  text-align: center;
+  line-height: 1.45;
+}
+
+.paper-recognition::before {
+  width: 0.42rem;
+  height: 0.42rem;
+  flex: 0 0 auto;
+  background: #d5a23d;
+  border-radius: 50%;
+  content: "";
+}
+
+.paper-recognition span {
+  color: #9a732b;
+  font-size: 0.59rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 
 .paper-list p {

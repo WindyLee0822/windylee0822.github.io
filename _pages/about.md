@@ -16,6 +16,7 @@ redirect_from:
       <p class="academic-role">PhD Student in Computer Sciences</p>
       <p class="academic-affiliation">University of Wisconsin–Madison</p>
       <nav class="profile-links" aria-label="Profile links">
+        <a class="profile-email" href="mailto:wli679@wisc.edu"><i class="fas fa-envelope" aria-hidden="true"></i>wli679@wisc.edu</a>
         <a href="https://scholar.google.com/citations?user=hK19TbcAAAAJ&amp;hl=zh-CN"><i class="fas fa-graduation-cap" aria-hidden="true"></i>Google Scholar</a>
         <a href="https://github.com/WindyLee0822"><i class="fab fa-github" aria-hidden="true"></i>GitHub</a>
         <a href="https://www.linkedin.com/in/wendi-li-323997285/"><i class="fab fa-linkedin" aria-hidden="true"></i>LinkedIn</a>
@@ -100,12 +101,12 @@ redirect_from:
         </a>
         <div class="paper-badges">
           <div class="paper-venue">{{ paper.venue }}<br><span>{{ paper.year }}</span></div>
-          {% if paper.recognition %}<div class="paper-recognition">{{ paper.recognition }}</div>{% endif %}
         </div>
         <div class="paper-details">
           <p class="paper-title">{{ paper.title }}</p>
           <p class="paper-authors">{{ paper.authors }}</p>
           {% if paper.note %}<p class="paper-note">{{ paper.note }}</p>{% endif %}
+          {% if paper.recognition %}<p class="paper-recognition"><span>Recognition</span>{{ paper.recognition }}</p>{% endif %}
           <p class="paper-links">
             <a href="{{ paper.pdf }}">Paper</a>
             {% if paper.code %}<a href="{{ paper.code }}">Code</a>{% endif %}
