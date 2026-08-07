@@ -9,6 +9,7 @@
   categories:
     - rl
     - agents
+    - selected
 
 - title: "Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring"
   authors: "Seongheon Park, <strong>Wendi Li</strong>, Changdae Oh, Samuel Yeh, Zsolt Kira, Michael Hagenow, Sharon Li"
@@ -18,6 +19,7 @@
   pdf: "https://arxiv.org/pdf/2605.30834"
   categories:
     - agents
+    - selected
 
 - title: "Cyclical Entropy Eruption: Entropy Dynamics in Agent Reinforcement Learning"
   authors: "<strong>Wendi Li</strong>, Shawn Im, Sharon Li"
@@ -29,6 +31,7 @@
   categories:
     - rl
     - agents
+    - selected
 
 - title: "When Vision Speaks for Sound"
   authors: "Xiaofei Wen, Wenjie Jacky Mo, Xingyu Fu, Rui Cai, Tinghui Zhu, <strong>Wendi Li</strong>, Yanan Xie, Muhao Chen, Peng Qi"
@@ -38,6 +41,7 @@
   pdf: "https://arxiv.org/pdf/2605.16403"
   categories:
     - nlp
+    - selected
 
 - title: "LAD: Learning Advantage Distribution for Reasoning"
   authors: "<strong>Wendi Li</strong>, Sharon Li"
@@ -48,7 +52,9 @@
   code: "https://github.com/WindyLee0822/LAD"
   categories:
     - rl
-    - agents
+    - reasoning
+    - selected
+    
 
 - title: "Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents"
   authors: "Changdae Oh, Seongheon Park, To Eun Kim, Jiatong Li, <strong>Wendi Li</strong>, Samuel Yeh, Xuefeng Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li"
@@ -58,6 +64,7 @@
   pdf: "https://arxiv.org/pdf/2602.05073"
   categories:
     - agents
+    - selected
 
 - title: "Process Reinforcement through Implicit Rewards"
   authors: "Ganqu Cui*, Lifan Yuan*, Zefan Wang*, Hanbin Wang*, <strong>Wendi Li*</strong>, Bingxiang He*, Yuchen Fan*, Tianyu Yu*, Qixin Xu*, et al."
@@ -68,7 +75,8 @@
   code: "https://github.com/PRIME-RL/PRIME"
   categories:
     - rl
-    - agents
+    - reasoning
+    - selected
 
 - title: "General Exploratory Bonus for Optimistic Exploration in RLHF"
   authors: "<strong>Wendi Li</strong>, Changdae Oh, Yixuan Li"
@@ -80,7 +88,7 @@
   code: "https://github.com/WindyLee0822/GEB"
   categories:
     - rl
-    - agents
+    - selected
 
 - title: "Free Process Rewards without Process Labels"
   authors: "Lifan Yuan*, <strong>Wendi Li*</strong>, Huayu Chen, Ganqu Cui, Ning Ding, Kaiyan Zhang, Bowen Zhou, Zhiyuan Liu, Hao Peng"
@@ -91,7 +99,8 @@
   code: "https://github.com/lifan-yuan/ImplicitPRM"
   categories:
     - rl
-    - agents
+    - reasoning
+    - selected
 
 - title: "Process Reward Model with Q-value Rankings"
   authors: "<strong>Wendi Li</strong>, Yixuan Li"
@@ -102,7 +111,8 @@
   code: "https://github.com/WindyLee0822/Process_Q_Model"
   categories:
     - rl
-    - agents
+    - reasoning
+    - selected
 
 - title: "Reinforcement Learning with Token-level Feedback for Controllable Text Generation"
   authors: "<strong>Wendi Li</strong>, Wei Wei, Kaihe Xu, Wenfeng Xie, Dangyang Chen, Yu Cheng"
@@ -113,7 +123,7 @@
   code: "https://github.com/WindyLee0822/CTG"
   categories:
     - rl
-    - nlp
+    - selected
 
 - title: "Position Debiasing Fine-Tuning for Causal Perception in Long-Term Dialogue"
   authors: "Shixuan Fan, Wei Wei, <strong>Wendi Li</strong>, Xian-Ling Mao, Wenfeng Xie, Dangyang Chen"
@@ -123,7 +133,6 @@
   pdf: "https://arxiv.org/pdf/2406.02002"
   code: "https://github.com/WindyLee0822/CTG"
   categories:
-    - nlp
 
 - title: "TREA: Tree-Structure Reasoning Schema for Conversational Recommendation"
   authors: "<strong>Wendi Li</strong>, Wei Wei, Xiaoye Qu, Xian-Ling Mao, Ye Yuan, Wenfeng Xie, Dangyang Chen"
@@ -133,8 +142,8 @@
   pdf: "https://arxiv.org/pdf/2307.10543.pdf"
   code: "https://github.com/WindyLee0822/TREA"
   categories:
-    - agents
-    - nlp
+    - reasoning
+    - selected
 
 - title: "Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning"
   authors: "Sen Zhao, Wei Wei, Yifan Liu, Ziyang Wang, <strong>Wendi Li</strong>, Xian-Ling Mao, Shuai Zhu, Minghui Yang, Zujie Wen"
@@ -144,5 +153,3 @@
   pdf: "https://arxiv.org/pdf/2305.02575.pdf"
   code: "https://github.com/Snnzhao/DAHCR"
   categories:
-    - rl
-    - nlp
