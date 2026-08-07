@@ -108,7 +108,6 @@ redirect_from:
           </div>
           <p class="paper-title">{{ paper.title }}</p>
           <p class="paper-authors">{{ paper.authors }}</p>
-          {% if paper.note %}<p class="paper-note">{{ paper.note }}</p>{% endif %}
           <p class="paper-links">
             <a href="{{ paper.pdf }}">Paper</a>
             {% if paper.code %}<a href="{{ paper.code }}">Code</a>{% endif %}
