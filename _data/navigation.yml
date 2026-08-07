@@ -9,17 +9,14 @@ main:
   - title: "Selected Work"
     url: /#publications
 
-  - title: "Publications"
-    url: /publications/
-
   # - title: "Talks"
   #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
 
-  - title: "About Me"
-    url: /portfolio/
+  - title: "About"
+    url: /#about
 
   - title: "CV"
     url: /Wendi_Resume.pdf

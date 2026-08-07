@@ -225,9 +225,10 @@
 .academic-news li {
   display: grid;
   grid-template-columns: 105px minmax(0, 1fr);
-  gap: 1rem;
-  padding: 0.66rem 0;
+  gap: 0.8rem;
+  padding: 0.34rem 0;
   border-bottom: 1px solid #edf0f2;
+  line-height: 1.4;
 }
 
 .academic-news time {
@@ -239,7 +240,34 @@
 
 .academic-news span {
   color: #3d4c56;
-  font-size: 0.88rem;
+  font-size: 0.84rem;
+}
+
+.academic-about {
+  padding: 2rem 0 0.5rem;
+  color: #7a858c;
+  border-top: 1px solid #edf0f2;
+  scroll-margin-top: 5rem;
+}
+
+.academic-about h2 {
+  margin: 0 0 0.7rem;
+  color: #66737b;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.academic-about p {
+  margin: 0 0 0.35rem !important;
+  font-size: 0.72rem !important;
+  line-height: 1.55;
+}
+
+.academic-about strong {
+  color: #67747c;
+  font-weight: 600;
 }
 
 .section-note {

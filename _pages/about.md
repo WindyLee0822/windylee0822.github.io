@@ -112,6 +112,14 @@ redirect_from:
       {% endfor %}
     </ul>
   </section>
+
+  <section class="academic-about" id="about">
+    <h2>Outside Research</h2>
+    <p>I enjoy literature, movies, and music.</p>
+    <p><strong>Recent books:</strong> <em>Satantango</em> by László Krasznahorkai, <em>Life and Death Are Wearing Me Out</em> by Mo Yan, and <em>The Hunter</em> by Shuang Xuetao.</p>
+    <p><strong>Recent films:</strong> <em>Desert of Namibia</em> by Yoko Yamanaka, and <em>Happy as Lazzaro</em> and <em>La Chimera</em> by Alice Rohrwacher.</p>
+    <p><strong>Music:</strong> Billie Eilish, Lana Del Rey, Jude Chiu, and Qing-Feng Wu.</p>
+  </section>
 </div>
 
 <script src="/assets/js/publication-filter.js" defer></script>
