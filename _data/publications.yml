@@ -1,3 +1,15 @@
+- title: "Cyclical Entropy Eruption: Entropy Dynamics in Agent Reinforcement Learning"
+  authors: "<strong>Wendi Li</strong>, Shawn Im, Sharon Li"
+  venue: "arXiv"
+  year: "2026"
+  image: "/images/publications/cyclical-entropy.jpg"
+  pdf: "https://arxiv.org/pdf/2605.27954"
+  code: "https://github.com/WindyLee0822/SEAL"
+  categories:
+    - rl
+    - agents
+    - selected
+    
 - title: "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents"
   authors: "Changdae Oh, <strong>Wendi Li</strong>, Seongheon Park, Samuel Yeh, Tanwi Mallick, Sharon Li"
   venue: "arXiv"
@@ -18,18 +30,6 @@
   image: "/images/publications/hide-and-seek.jpg"
   pdf: "https://arxiv.org/pdf/2605.30834"
   categories:
-    - agents
-    - selected
-
-- title: "Cyclical Entropy Eruption: Entropy Dynamics in Agent Reinforcement Learning"
-  authors: "<strong>Wendi Li</strong>, Shawn Im, Sharon Li"
-  venue: "arXiv"
-  year: "2026"
-  image: "/images/publications/cyclical-entropy.jpg"
-  pdf: "https://arxiv.org/pdf/2605.27954"
-  code: "https://github.com/WindyLee0822/SEAL"
-  categories:
-    - rl
     - agents
     - selected
 
