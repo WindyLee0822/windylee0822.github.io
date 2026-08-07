@@ -1,0 +1,108 @@
+- title: "LAD: Learning Advantage Distribution for Reasoning"
+  authors: "<strong>Wendi Li</strong>, Sharon Li"
+  venue: "ACL"
+  year: "2026"
+  image: "/images/publications/lad.jpg"
+  pdf: "https://arxiv.org/pdf/2602.20132"
+  code: "https://github.com/WindyLee0822/LAD"
+  categories:
+    - rl
+    - agents
+
+- title: "Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents"
+  authors: "Changdae Oh, Seongheon Park, To Eun Kim, Jiatong Li, <strong>Wendi Li</strong>, Samuel Yeh, Xuefeng Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li"
+  venue: "ACL"
+  year: "2026"
+  image: "/images/publications/reducible-uncertainty.jpg"
+  pdf: "https://arxiv.org/pdf/2602.05073"
+  categories:
+    - agents
+
+- title: "Process Reinforcement through Implicit Rewards"
+  authors: "Ganqu Cui*, Lifan Yuan*, Zefan Wang*, Hanbin Wang*, <strong>Wendi Li*</strong>, Bingxiang He*, Yuchen Fan*, Tianyu Yu*, Qixin Xu*, et al."
+  venue: "TMLR"
+  year: "2026"
+  image: "/images/publications/process-reinforcement.jpg"
+  pdf: "https://arxiv.org/pdf/2502.01456"
+  code: "https://github.com/PRIME-RL/PRIME"
+  categories:
+    - rl
+    - agents
+
+- title: "General Exploratory Bonus for Optimistic Exploration in RLHF"
+  authors: "<strong>Wendi Li</strong>, Changdae Oh, Yixuan Li"
+  venue: "ICLR"
+  year: "2026"
+  note: "ResponsibleFM@NeurIPS 2026 Oral"
+  image: "/images/publications/geb.jpg"
+  pdf: "https://arxiv.org/pdf/2510.03269"
+  code: "https://github.com/WindyLee0822/GEB"
+  categories:
+    - rl
+    - agents
+
+- title: "Free Process Rewards without Process Labels"
+  authors: "Lifan Yuan*, <strong>Wendi Li*</strong>, Huayu Chen, Ganqu Cui, Ning Ding, Kaiyan Zhang, Bowen Zhou, Zhiyuan Liu, Hao Peng"
+  venue: "ICML"
+  year: "2025"
+  image: "/images/publications/free-process-rewards.jpg"
+  pdf: "https://arxiv.org/pdf/2412.01981"
+  code: "https://github.com/lifan-yuan/ImplicitPRM"
+  categories:
+    - rl
+    - agents
+
+- title: "Process Reward Model with Q-value Rankings"
+  authors: "<strong>Wendi Li</strong>, Yixuan Li"
+  venue: "ICLR"
+  year: "2025"
+  image: "/images/publications/q-value-rankings.jpg"
+  pdf: "https://arxiv.org/pdf/2410.11287"
+  code: "https://github.com/WindyLee0822/Process_Q_Model"
+  categories:
+    - rl
+    - agents
+
+- title: "Reinforcement Learning with Token-level Feedback for Controllable Text Generation"
+  authors: "<strong>Wendi Li</strong>, Wei Wei, Kaihe Xu, Wenfeng Xie, Dangyang Chen, Yu Cheng"
+  venue: "NAACL"
+  year: "2024"
+  note: "Findings"
+  image: "/images/publications/token-feedback.jpg"
+  pdf: "https://arxiv.org/pdf/2403.11558"
+  code: "https://github.com/WindyLee0822/CTG"
+  categories:
+    - rl
+    - nlp
+
+- title: "Position Debiasing Fine-Tuning for Causal Perception in Long-Term Dialogue"
+  authors: "Shixuan Fan, Wei Wei, <strong>Wendi Li</strong>, Xian-Ling Mao, Wenfeng Xie, Dangyang Chen"
+  venue: "IJCAI"
+  year: "2024"
+  image: "/images/publications/position-debiasing.jpg"
+  pdf: "https://arxiv.org/pdf/2406.02002"
+  code: "https://github.com/WindyLee0822/CTG"
+  categories:
+    - nlp
+
+- title: "TREA: Tree-Structure Reasoning Schema for Conversational Recommendation"
+  authors: "<strong>Wendi Li</strong>, Wei Wei, Xiaoye Qu, Xian-Ling Mao, Ye Yuan, Wenfeng Xie, Dangyang Chen"
+  venue: "ACL"
+  year: "2023"
+  image: "/images/publications/trea.jpg"
+  pdf: "https://arxiv.org/pdf/2307.10543.pdf"
+  code: "https://github.com/WindyLee0822/TREA"
+  categories:
+    - agents
+    - nlp
+
+- title: "Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning"
+  authors: "Sen Zhao, Wei Wei, Yifan Liu, Ziyang Wang, <strong>Wendi Li</strong>, Xian-Ling Mao, Shuai Zhu, Minghui Yang, Zujie Wen"
+  venue: "IJCAI"
+  year: "2023"
+  image: "/images/publications/hierarchical-policy.jpg"
+  pdf: "https://arxiv.org/pdf/2305.02575.pdf"
+  code: "https://github.com/Snnzhao/DAHCR"
+  categories:
+    - rl
+    - nlp

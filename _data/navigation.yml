@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Home"
-    url: /
-
   - title: "News"
     url: /#news
 
-  - title: "Publications"
+  - title: "Research"
+    url: /#research
+
+  - title: "Selected Work"
     url: /#publications
 
-  - title: "Full Publication List"
+  - title: "Publications"
     url: /publications/
 
   # - title: "Talks"
@@ -18,8 +18,11 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
 
-  - title: "Beyond Research"
+  - title: "About Me"
     url: /portfolio/
+
+  - title: "CV"
+    url: /Wendi_Resume.pdf
 
   # - title: "Blog Posts"
   #   url: /year-archive/
