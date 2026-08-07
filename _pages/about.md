@@ -105,7 +105,15 @@ redirect_from:
         <div class="paper-details">
           <div class="paper-meta">
             <p class="paper-venue">{{ paper.venue }} · {{ paper.year }}</p>
-            {% if paper.recognition %}<p class="paper-recognition">{{ paper.recognition }}</p>{% endif %}
+            {% if paper.recognition %}
+            <div class="paper-recognition-group" aria-label="{{ paper.recognition }} at {{ paper.recognition_event | default: paper.venue }}">
+              <p class="paper-recognition-event">{{ paper.recognition_event | default: paper.venue }}</p>
+              <p class="paper-recognition paper-recognition--{{ paper.recognition_type | default: 'award' }}">
+                <span aria-hidden="true">{% if paper.recognition_type == "oral" %}●{% else %}★{% endif %}</span>
+                {{ paper.recognition }}
+              </p>
+            </div>
+            {% endif %}
           </div>
           <p class="paper-title">{{ paper.title }}</p>
           <p class="paper-authors">{{ paper.authors }}</p>
