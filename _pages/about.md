@@ -86,10 +86,11 @@ redirect_from:
 
     <div class="publication-toolbar">
       <div class="publication-filters" data-publication-filters aria-label="Filter publications by topic">
+        <button type="button" data-publication-filter="selected" aria-pressed="true">Selected</button>
         <button type="button" data-publication-filter="all" aria-pressed="true">All</button>
-        <button type="button" data-publication-filter="rl" aria-pressed="false">RL &amp; Alignment</button>
-        <button type="button" data-publication-filter="agents" aria-pressed="false">Reasoning &amp; Agents</button>
-        <button type="button" data-publication-filter="nlp" aria-pressed="false">NLP &amp; Recommendation</button>
+        <button type="button" data-publication-filter="rl" aria-pressed="false">Reinforcement Learning</button>
+        <button type="button" data-publication-filter="agents" aria-pressed="false">Agents</button>
+        <button type="button" data-publication-filter="reasoning" aria-pressed="false">Reasoning</button>
       </div>
       <p class="publication-count"><span data-publication-count>{{ site.data.publications | size }}</span> papers</p>
     </div>
