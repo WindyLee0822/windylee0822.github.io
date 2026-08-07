@@ -3,8 +3,13 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
-  border-bottom: 1px solid $border-color;
+  position: sticky;
+  top: 0;
+  background: rgba(0, 50, 98, 0.97);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 3px solid #714abb;
+  box-shadow: 0 2px 10px rgba(0, 31, 61, 0.16);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -14,7 +19,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 0.7em 1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -33,6 +38,20 @@
 
 .masthead__menu {
 
+  .greedy-nav {
+    background: transparent;
+  }
+
+  .hidden-links {
+    a {
+      color: #343a40;
+
+      &:hover {
+        color: #4f3286;
+      }
+    }
+  }
+
   ul {
     margin: 0;
     padding: 0;
@@ -48,6 +67,15 @@
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+  }
+
+  a {
+    color: $masthead-link-color;
+
+    &:hover {
+      color: $masthead-link-color-hover;
+    }
   }
 }
