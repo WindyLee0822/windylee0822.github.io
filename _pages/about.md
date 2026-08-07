@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div class="academic-home">
-  <section class="academic-intro">
+  <section class="academic-intro" id="about">
     <aside class="academic-profile">
       <img src="/images/myavatar.jpg" alt="Portrait of Wendi Li">
       <h1>Wendi Li</h1>
@@ -113,7 +113,7 @@ redirect_from:
     </ul>
   </section>
 
-  <section class="academic-about" id="about">
+  <section class="academic-about" id="outside-research">
     <h2>Outside Research</h2>
     <p>I enjoy literature, movies, and music.</p>
     <p><strong>Recent books:</strong> <em>Satantango</em> by László Krasznahorkai, <em>Life and Death Are Wearing Me Out</em> by Mo Yan, and <em>The Hunter</em> by Shuang Xuetao.</p>

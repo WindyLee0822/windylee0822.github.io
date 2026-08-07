@@ -217,8 +217,11 @@
 }
 
 .academic-news {
+  max-height: 13rem;
   margin: 0;
-  padding: 0;
+  padding: 0 0.65rem 0 0;
+  overflow-y: auto;
+  scrollbar-gutter: stable;
   list-style: none;
 }
 

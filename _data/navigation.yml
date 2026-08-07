@@ -1,31 +1,10 @@
 # main links links
 main:
-  - title: "News"
-    url: /#news
-
-  - title: "Research"
-    url: /#research
-
-  - title: "Selected Work"
-    url: /#publications
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-
   - title: "About"
     url: /#about
 
-  - title: "CV"
-    url: /Wendi_Resume.pdf
+  - title: "News"
+    url: /#news
 
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-
-  # - title: "CV"
-  #   url: /cv/
-
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Publications"
+    url: /#publications
