@@ -26,9 +26,9 @@ redirect_from:
 
     <div class="academic-intro__bio">
       <p class="intro-kicker">Hello, I’m Wendi.</p>
-      <p>I am currently a first-year PhD student at UW–Madison, where I am fortunate to be advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/">Sharon Li</a>. I received my B.E. and M.E. in Computer Science and Technology from HUST (Huazhong University of Science and Technology).</p>
+      <p>I am currently a first-year PhD student at <a href="https://www.cs.wisc.edu/">University of Wisconsin–Madison</a>, where I am fortunate to be advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/">Sharon Li</a>. I received my B.E. and M.E. in Computer Science and Technology from <a href="https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-and-technology-505190">Huazhong University of Science and Technology</a>.</p>
       <p>My current research interests lie in <strong>reinforcement learning algorithms for large-scale models</strong> and their downstream applications, such as <strong>agentic systems</strong>.</p>
-      <p class="intro-contact">I am always happy to discuss reinforcement learning, reasoning, and reliable AI systems.</p>
+      <p class="intro-contact">I am always happy to chat and discuss about potential collaborations or my past research projects. Feel free to contact me via email wli679 AT wisc.edu</p>
 
       <div class="research-interests" id="research">
         <h2>Research Interests</h2>
@@ -121,8 +121,8 @@ redirect_from:
   <section class="academic-about" id="outside-research">
     <h2>Outside Research</h2>
     <p>I enjoy literature, movies, and music.</p>
-    <p><strong>Recent books:</strong> <em>Satantango</em> by László Krasznahorkai, <em>Life and Death Are Wearing Me Out</em> by Mo Yan, and <em>The Hunter</em> by Shuang Xuetao.</p>
-    <p><strong>Recent films:</strong> <em>Desert of Namibia</em> by Yoko Yamanaka, and <em>Happy as Lazzaro</em> and <em>La Chimera</em> by Alice Rohrwacher.</p>
+    <p><strong>Recent favorite books:</strong> <em>Life Ceremony</em> by Sayaka Murata, <em>All the Lovers in the Night</em> by Mieko Kawakami, <em>Satantango</em> by László Krasznahorkai, and <em>The Hunter</em> by Shuang Xuetao.</p>
+    <p><strong>Recent favorite films:</strong> <em>Happy as Lazzaro</em> and <em>La Chimera</em> by Alice Rohrwacher, <em>If I Had Legs, I'd Kick You</em> by Mary Bronstein, <em>Kaili Blues</em> by Gan Bi, <em>The Florida Project</em> by Sean Baker, <em>Desert of Namibia</em> by Yoko Yamanaka</p>
     <p><strong>Music:</strong> Billie Eilish, Lana Del Rey, Jude Chiu, and Qing-Feng Wu.</p>
   </section>
 </div>
