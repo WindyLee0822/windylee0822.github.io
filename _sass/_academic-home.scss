@@ -375,33 +375,36 @@
   transform: scale(1.035);
 }
 
+.paper-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.5rem;
+  align-items: center;
+  margin-bottom: 0.42rem;
+}
+
+.paper-venue,
+.paper-recognition {
+  padding: 0.2rem 0.48rem;
+  border-radius: 3px;
+  line-height: 1.35;
+}
+
 .paper-venue {
-  color: #246f96;
-  font-size: 0.7rem !important;
+  background: #246f96;
+  color: #fff;
+  font-size: 0.72rem !important;
   font-weight: 700;
-  letter-spacing: 0.03em;
-  line-height: 1.4;
+  letter-spacing: 0.045em;
   text-transform: uppercase;
 }
 
 .paper-recognition {
-  display: flex;
-  align-items: baseline;
-  gap: 0.45rem;
-  margin-top: 0.38rem !important;
-  color: #775c2a;
-  font-size: 0.69rem !important;
-  font-weight: 700;
-  line-height: 1.45;
-}
-
-.paper-recognition::before {
-  width: 0.42rem;
-  height: 0.42rem;
-  flex: 0 0 auto;
-  background: #d5a23d;
-  border-radius: 50%;
-  content: "";
+  border: 1px solid #ddd1bd;
+  background: #faf7f1;
+  color: #715f43;
+  font-size: 0.66rem !important;
+  font-weight: 600;
 }
 
 .paper-list p {

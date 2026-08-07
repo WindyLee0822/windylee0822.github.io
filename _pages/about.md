@@ -102,11 +102,13 @@ redirect_from:
         <img src="{{ paper.image }}" alt="Illustration from {{ paper.title }}" loading="lazy">
         </a>
         <div class="paper-details">
-          <p class="paper-venue">{{ paper.venue }} · {{ paper.year }}</p>
+          <div class="paper-meta">
+            <p class="paper-venue">{{ paper.venue }} · {{ paper.year }}</p>
+            {% if paper.recognition %}<p class="paper-recognition">{{ paper.recognition }}</p>{% endif %}
+          </div>
           <p class="paper-title">{{ paper.title }}</p>
           <p class="paper-authors">{{ paper.authors }}</p>
           {% if paper.note %}<p class="paper-note">{{ paper.note }}</p>{% endif %}
-          {% if paper.recognition %}<p class="paper-recognition">{{ paper.recognition }}</p>{% endif %}
           <p class="paper-links">
             <a href="{{ paper.pdf }}">Paper</a>
             {% if paper.code %}<a href="{{ paper.code }}">Code</a>{% endif %}
