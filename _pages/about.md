@@ -26,7 +26,7 @@ redirect_from:
 
     <div class="academic-intro__bio">
       <p class="intro-kicker">Hello, I’m Wendi.</p>
-      <p>I am currently a first-year PhD student at <a href="https://www.cs.wisc.edu/">University of Wisconsin–Madison</a>, where I am fortunate to be advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/">Sharon Li</a>. I received my B.E. and M.E. in Computer Science and Technology from <a href="https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-and-technology-505190">Huazhong University of Science and Technology</a>.</p>
+      <p>I am currently a second-year PhD student at <a href="https://www.cs.wisc.edu/">University of Wisconsin–Madison</a>, where I am fortunate to be advised by Prof. <a href="https://pages.cs.wisc.edu/~sharonli/">Sharon Li</a>. I received my B.E. and M.E. in Computer Science and Technology from <a href="https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-and-technology-505190">Huazhong University of Science and Technology</a>.</p>
       <p>My current research interests lie in <strong>reinforcement learning algorithms for large-scale models</strong> and their downstream applications, such as <strong>agentic systems</strong>.</p>
       <p class="intro-contact">I am always happy to chat and discuss about potential collaborations or my past research projects. Feel free to contact me via email wli679 AT wisc.edu</p>
 
