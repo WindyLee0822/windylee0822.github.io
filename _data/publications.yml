@@ -31,6 +31,7 @@
   year: "2026"
   image: "/images/publications/hide-and-seek.jpg"
   pdf: "https://arxiv.org/pdf/2605.30834"
+  code: "https://seongheon-96.github.io/hide_and_seek_site/"
   categories:
     - agents
     - selected
@@ -41,16 +42,18 @@
   year: "2026"
   image: "/images/publications/vision-speaks-sound.jpg"
   pdf: "https://arxiv.org/pdf/2605.16403"
+  code: "https://github.com/rakanWen/wvs-code"
   categories:
     - nlp
     - selected
 
 - title: "Multi-Agent LLMs Fail to Explore Each Other"
-  authors: "Hyeong Kyu Choi, Jiatong Li, Wendi Li, Xin Eric Wang, Sharon Li"
+  authors: "Hyeong Kyu Choi, Jiatong Li, <strong>Wendi Li</strong>, Xin Eric Wang, Sharon Li"
   venue: "arXiv"
   year: "2026"
   image: "/images/publications/multi-agent-fail.jpg"
   pdf: "https://arxiv.org/pdf/2607.11250"
+  code: "https://github.com/deeplearning-wisc/mace"
   categories:
     - nlp
     - selected
