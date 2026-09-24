@@ -132,7 +132,7 @@ redirect_from:
     <h2>Outside Research</h2>
     <p>I enjoy literature, movies, and music.</p>
     <p><strong>Recent favorite books:</strong> <em>Life Ceremony</em> by Sayaka Murata, <em>Satantango</em> by László Krasznahorkai, and <em>The Hunter</em> by Shuang Xuetao.</p>
-    <p><strong>Recent favorite films:</strong> <em>Poetry</em> by Lee Chang-dong, <em>Fjord</em> by Cristian Mungiu, <em>Happy as Lazzaro</em> and <em>La Chimera</em> by Alice Rohrwacher, <em>Kaili Blues</em> by Gan Bi
+    <p><strong>Recent favorite films:</strong> <em>Poetry</em> by Lee Chang-dong, <em>Fjord</em> by Cristian Mungiu, <em>Happy as Lazzaro</em> and <em>La Chimera</em> by Alice Rohrwacher, <em>Kaili Blues</em> by Gan Bi</p>
     <p><strong>Music:</strong> Billie Eilish, Lana Del Rey, Jude Chiu, and Qing-Feng Wu.</p>
   </section>
 </div>
