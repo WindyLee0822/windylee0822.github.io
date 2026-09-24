@@ -46,14 +46,14 @@
     - selected
 
 - title: "Multi-Agent LLMs Fail to Explore Each Other"
-authors: "Hyeong Kyu Choi, Jiatong Li, Wendi Li, Xin Eric Wang, Sharon Li"
-venue: "arXiv"
-year: "2026"
-image: "/images/publications/multi-agent-fail.jpg"
-pdf: "https://arxiv.org/pdf/2607.11250"
-categories:
-  - nlp
-  - selected
+  authors: "Hyeong Kyu Choi, Jiatong Li, Wendi Li, Xin Eric Wang, Sharon Li"
+  venue: "arXiv"
+  year: "2026"
+  image: "/images/publications/multi-agent-fail.jpg"
+  pdf: "https://arxiv.org/pdf/2607.11250"
+  categories:
+    - nlp
+    - selected
 
 - title: "LAD: Learning Advantage Distribution for Reasoning"
   authors: "<strong>Wendi Li</strong>, Sharon Li"
