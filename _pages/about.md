@@ -61,11 +61,12 @@ redirect_from:
       </div>
     </div>
     <ul class="academic-news">
-      <li><time datetime="2026-05">Jul 2026</time><span>Progress Advantage won the <a href="https://sites.google.com/view/rlxf-icml2026/accepted-papers"><strong>best paper award</strong> at workshop RLxF@ICML 2026</a></span></li>
+      <li><time datetime="2026-09">Sept 2026</time><span>Three papers were accepted at <strong>NeurIPS 2026</strong>.</span></li>
+      <li><time datetime="2026-05">Jul 2026</time><span>Progress Advantage won the <a href="https://sites.google.com/view/rlxf-icml2026/accepted-papers"><strong style="color: #d32f2f;">best paper award</strong> at workshop RLxF@ICML 2026</a></span></li>
       <li><time datetime="2026-05">May 2026</time><span>I started my summer internship as a <strong>Research Intern in Microsoft</strong>, Redmond, WA.</span></li>
       <li><time datetime="2026-04">Apr 2026</time><span>Two papers were accepted at <strong>ACL 2026</strong>.</span></li>
       <li><time datetime="2026-01">Jan 2026</time><span>GEB was accepted by <strong>ICLR 2026</strong>.</span></li>
-      <li><time datetime="2025-11">Nov 2025</time><span>GEB was selected for an oral presentation at <strong>ResponsibleFM@NeurIPS 2026</strong>.</span></li>
+      <li><time datetime="2025-11">Nov 2025</time><span>GEB was selected for an <strong style="color: #d32f2f;">oral</strong> presentation at <strong>ResponsibleFM@NeurIPS 2026</strong>.</span></li>
       <li><time datetime="2025-08">Aug 2025</time><span>I started my PhD journey at <strong>UW–Madison</strong>.</span></li>
       <li><time datetime="2025-05">May 2025</time><span>Free Process Rewards without Process Labels was accepted by <strong>ICML 2025</strong>.</span></li>
       <li><time datetime="2025-01">Jan 2025</time><span>PQM was accepted by <strong>ICLR 2025</strong>.</span></li>
@@ -130,8 +131,8 @@ redirect_from:
   <section class="academic-about" id="outside-research">
     <h2>Outside Research</h2>
     <p>I enjoy literature, movies, and music.</p>
-    <p><strong>Recent favorite books:</strong> <em>Life Ceremony</em> by Sayaka Murata, <em>All the Lovers in the Night</em> by Mieko Kawakami, <em>Satantango</em> by László Krasznahorkai, and <em>The Hunter</em> by Shuang Xuetao.</p>
-    <p><strong>Recent favorite films:</strong> <em>Happy as Lazzaro</em> and <em>La Chimera</em> by Alice Rohrwacher, <em>If I Had Legs, I'd Kick You</em> by Mary Bronstein, <em>Kaili Blues</em> by Gan Bi, <em>The Florida Project</em> by Sean Baker, <em>Desert of Namibia</em> by Yoko Yamanaka</p>
+    <p><strong>Recent favorite books:</strong> <em>Life Ceremony</em> by Sayaka Murata, <em>Satantango</em> by László Krasznahorkai, and <em>The Hunter</em> by Shuang Xuetao.</p>
+    <p><strong>Recent favorite films:</strong> <em>Poetry</em> by Lee Chang-dong, <em>Fjord</em> by Cristian Mungiu, <em>Happy as Lazzaro</em> and <em>La Chimera</em> by Alice Rohrwacher, <em>Kaili Blues</em> by Gan Bi
     <p><strong>Music:</strong> Billie Eilish, Lana Del Rey, Jude Chiu, and Qing-Feng Wu.</p>
   </section>
 </div>
